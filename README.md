@@ -1,6 +1,8 @@
 # ud-co2s-go
 
-IO-DATA UD-CO2S Client written by Go.
+![image](https://github.com/kznrluk/ud-co2s-grafana/assets/29700428/f0ca0eab-083a-4f86-a180-a40848310d24)
+
+URLとAPIキーを書き換えてビルドしてください。
 
 ```
 go build
